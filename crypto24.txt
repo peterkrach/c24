@@ -3,14 +3,22 @@
 WIP (alguna vez algo dejara de serlo?)
 
 ## introduccion (30min)
+Discusión: "Si no tienes nada que ocultar, no hay nada que temer"
+ *Nothing to hide*: << "Here's my email address. What I want you to do when you get home is email me the passwords to all of your email accounts, not just the nice, respectable work one in your name, but all of them, because Iwant to be able to just troll through what it is you're doing online, read what I want to read and publish whatever I find interesting. After all, if you're not a bad person, if you're doing nothing wrong, you should have nothing to hide." Not a single person has taken me up on that offer>> .Glenn Greenwald in Why privacy matters - TED Talk
+- bolso mango: por que no es verdad no tengo nada que esconder
 
 - que se entiende por privacidad
+El derecho a la protección de la información de la ciudadanía que utiliza medios digitales
 - que se entiende por anonimato
- - localizacion (desde donde o a donde se realiza la conexion)
-- que necesidades se tienen
-- bolso mango: por que no es verdad no tengo nada que esconder
-  *Nothing to hide*: << "Here's my email address. What I want you to do when you get home is email me the passwords to all of your email accounts, not just the nice, respectable work one in your name, but all of them, because Iwant to be able to just troll through what it is you're doing online, read what I want to read and publish whatever I find interesting. After all, if you're not a bad person, if you're doing nothing wrong, you should have nothing to hide." Not a single person has taken me up on that offer>> .Glenn Greenwald in Why privacy matters - TED Talk
-- escaneo... -> la j. se lo tiene que mirar (y enviar conf a la c.)
+El derecho a decidir sobre tu identidad digital
+- localizacion (desde donde o a donde se realiza la conexion)
+### que necesidades se tienen / Threat model
+- ¿Qué quieres proteger?
+- ¿De quien lo quieres proteger?
+- ¿Qué posibilidades hay de que lo protejas
+- Si no lo proteges ¿qué consecuencias tiene?
+- ¿Cuanto esfuerzo estás dispuesta a realizar?
+### Viendo lo que generalmente no ves pero está en el aire, tiburones en las redes
  - ensenyar la pw q meto en mi ordenador (objetivo: evita HTTP sin la S)
  - ensanyar Web destino (objetivo: cuidado, sin Tor cualquiera en tu red puede ver donde vas, y FB puede ver de donde vienes)
 - Modelos de amenaza?: el llamado "threat model" (si antes se preguntaba por el modelo de negocio, ahora se pregunta por le modelo de amenaza, broma local)
@@ -20,6 +28,9 @@ WIP (alguna vez algo dejara de serlo?)
  - Gobiernos
   - Global (pasiva): retencion datos?, analisis de trafico, ...
   - Objetivo de servicios secretos: muy dificil de esquivar...
+
+### Viendo quien te rastrea en la red - lightbeam
+### Tor para proteger tu privacidad, anonimízate
 
 ## que recursos hay (ahi abajo) (30min)
 
@@ -76,8 +87,6 @@ Mitos: pederastia, terrorismo, financiacion, servicios secretos....
 y quiero tapas (pescaito frito, pisto, caracoles) tambien! :)
 
 # recursos
-
-Explicar diferencia entre aplicacion/herramienta/software y servicio?
 
 ## Identificando los riesgos
 Threat model: https://ssd.eff.org/en/playlist/activist-or-protester#introduction-threat-modeling
@@ -211,14 +220,6 @@ Tambien se han creado un monton nuevas los ultimos anyos:
 Una forma de aprender mas, es visitando tu [cryptoparty](https://cryptoparty.in/berlin) local, en Berlin hay al menos una cada semana, a veces incluso 3 :)
 Para empezar esta muy bien, aunque si tienes necesidades muy especificas/criticas, consulta con alguien especializado/a.
 
-## TODO
-
-- Rellenar este pad antes del viernes
-- tenemos un contacto cryptoparty en la peninsula...
-
 ## distracciones
 
 - mirar gitbook.com (y como no, git y github, para las tech ;))
-
-
-*Aviso*: casi nunca escribo en lenguage humano en la Web, menos temas de opinion y en castellano, asi que me reservo el derecho de borrar una pequenya parte de la historia de la humanidad: el log de este git (cuando esto este en un git).
