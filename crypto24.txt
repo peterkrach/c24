@@ -1,60 +1,12 @@
-# contenido cryptoparty
+# que recursos hay (ahi abajo) (30min)
 
-WIP (alguna vez algo dejara de serlo?)
-
-## introduccion (30min)
-Discusión: "Si no tienes nada que ocultar, no hay nada que temer"
- *Nothing to hide*: << "Here's my email address. What I want you to do when you get home is email me the passwords to all of your email accounts, not just the nice, respectable work one in your name, but all of them, because Iwant to be able to just troll through what it is you're doing online, read what I want to read and publish whatever I find interesting. After all, if you're not a bad person, if you're doing nothing wrong, you should have nothing to hide." Not a single person has taken me up on that offer>> .Glenn Greenwald in Why privacy matters - TED Talk
-- bolso mango: por que no es verdad no tengo nada que esconder
-
-- que se entiende por privacidad
-El derecho a la protección de la información de la ciudadanía que utiliza medios digitales
-- que se entiende por anonimato
-El derecho a decidir sobre tu identidad digital
-- localizacion (desde donde o a donde se realiza la conexion)
-### que necesidades se tienen / Threat model
-- ¿Qué quieres proteger?
-- ¿De quien lo quieres proteger?
-- ¿Qué posibilidades hay de que lo protejas
-- Si no lo proteges ¿qué consecuencias tiene?
-- ¿Cuanto esfuerzo estás dispuesta a realizar?
-### Viendo lo que generalmente no ves pero está en el aire, tiburones en las redes
- - ensenyar la pw q meto en mi ordenador (objetivo: evita HTTP sin la S)
- - ensanyar Web destino (objetivo: cuidado, sin Tor cualquiera en tu red puede ver donde vas, y FB puede ver de donde vienes)
-- Modelos de amenaza?: el llamado "threat model" (si antes se preguntaba por el modelo de negocio, ahora se pregunta por le modelo de amenaza, broma local)
- - Otras ciudadanas: "ex", stalker, script kiddie...
- - Grupos ideologicos?: nazis, ...
- - Empresas:
- - Gobiernos
-  - Global (pasiva): retencion datos?, analisis de trafico, ...
-  - Objetivo de servicios secretos: muy dificil de esquivar...
-
-### Viendo quien te rastrea en la red - lightbeam
-### Tor para proteger tu privacidad, anonimízate
-
-## que recursos hay (ahi abajo) (30min)
-
-### Web: 
-HTTP*S*, plz!. Y hablaremos the Tor...
-[Grafico interactivo](https://www.eff.org/pages/tor-and-https)
-
-### Mail + GPG
-que dolor!
-
-### Mensajeria instantanea:
-hay un monton!. Para las que estamos mayores: Jabber + OTR
-
-### Pads:
-blah
-
-### Intercambio de ficheros:
-err..
-
-### Redes sociales descentralizadas: 
+## Redes sociales descentralizadas: 
 
 Ay!!, que dolor, por desgracia el problema no se ha resuelto desde hace 8 anyos siguiendolo, a pesar de que ha habido muchos nuevos proyectos.
 
-### Tor:
+## Tor:
+HTTP*S*, plz!. Y hablaremos the Tor...
+[Grafico interactivo](https://www.eff.org/pages/tor-and-https)
 
 Diferenciar terminos:
 - Tor Project Inc.
@@ -76,74 +28,62 @@ Aplicaciones que se pueden usar con tor:
 
 Mitos: pederastia, terrorismo, financiacion, servicios secretos....
 
-### Distribuciones que usan Tor para todas las aplicaciones y estas estan configuradas para ofrecer mayor seguridad y/o anonimato
-
-
-## instalacion (2h)
-
-
-## canyas (1h)
-
-y quiero tapas (pescaito frito, pisto, caracoles) tambien! :)
-
-# recursos
-
-## Identificando los riesgos
+# Identificando los riesgos
 Threat model: https://ssd.eff.org/en/playlist/activist-or-protester#introduction-threat-modeling
 
-## herramientas/aplicaciones escritorio
+# herramientas/aplicaciones escritorio
 
-### GPG
+## GPG
+que dolor! pero todo pasa ...
 
 - [Riseup Mejores practicas](https://riseup.net/en/security/messagesecurity/openpgp/bestpractices): solia ser la mejor referencia, pero creo esta desactualizado, no incluye gpg2, Linux, MacOs, Windows
 - [Guia MAC OS](http://macgpg.sourceforge.net/)
 - [Guia M$ Windows](https://www.gpg4win.org/)
 - [Sitio oficial Gnupg](https://gnupg.org/documentation/index.html): algo caotico
 
+
 Icedove/Thunderbird + Enigmail + TorBirdy (Debian/Ubuntu?)
 
-### Jabber/OTR
+## Jabber/OTR
 
 - [Pidgin](https://www.pidgin.im/): Linux, Win, MacOS. Muchos problemas de seguridad, pero el mas usable por el momento
 
-### Web
+## Web
 
-Firefox + Plugins
+## Tor
+
+Navegador Web: no es recomendable usar cualquier navegador, se recomiend usar [Tor Project Bundle](https://www.torproject.org/download) (abreviado tbb).
+Si no se tiene tor instalado en el sistema, no es necesario porque tbb lo incluye.
+
+## Intercambio ficheros
+
+- [OnionShare](https://onionshare.org/)
+
+## Distribuciones que usan Tor para todas las aplicaciones y estas estan configuradas para ofrecer mayor seguridad y/o anonimato
+
+ - [Tails](https://tails.boum.org/)
+
+## Firefox + Plugins
 Disconnect
 Privacy Badger
 https everywhere
 google sharing
 lightbeam
 
-### Tor
-
-Navegador Web: no es recomendable usar cualquier navegador, se recomiend usar [Tor Project Bundle](https://www.torproject.org/download) (abreviado tbb).
-
-Si no se tiene tor instalado en el sistema, no es necesario porque tbb lo incluye.
-
-### Intercambio ficheros
-
-- [OnionShare](https://onionshare.org/)
-
-
-## Distribuciones que usan Tor para todas las aplicaciones y estas estan configuradas para ofrecer mayor seguridad y/o anonimato
-
- - [Tails](https://tails.boum.org/)
-
-## herramientas/aplicaciones Android
+# herramientas/aplicaciones Android
 
 Si corres gran riesgo. No uses el movil!
 
-### Repositorio de aplicaciones libres
+## Repositorio de aplicaciones libres
 
 [F-droid](https://f-droid.org)
 
-### GPG
+## GPG
 
 [K9 + OpenKeychain](https://onionshare.org/)
 
 
-### Mensajeria instantanea
+## Mensajeria instantanea
 
  - Jabber + OTR/OMEMO: [Conversations](https://conversations.im/)
  - Signal
@@ -151,7 +91,7 @@ Si corres gran riesgo. No uses el movil!
  - Riot
  - Wire
 
-### Web + Tor
+## Web + Tor
 
  -  [OrFox](https://guardianproject.info/apps/orfox/)
  - OrWeb + OrBot + OrWall
@@ -160,9 +100,9 @@ Si corres gran riesgo. No uses el movil!
 
 [Copperhead](https://copperhead.co/android/)
 
-## servicios alternativos
+# servicios alternativos
 
-### servicios de correo
+## servicios de correo
 
 http:s//riseup.net (USA)
 https://autistici.org (ITA)
@@ -176,7 +116,7 @@ https://pangea.org/ (ESP)
 [Aktivix](https://http://en.wiki.aktivix.org/Aktivix:EmailAndLists)
 [Posteo](https://posteo.de) (GER): 1eur/mes
 
-### servicios pad
+## servicios pad
 
 [Riseup](https://pad.riseup.net_
 [La Quadrature du Net](https://pad.lqdn.net)
@@ -184,27 +124,27 @@ https://pangea.org/ (ESP)
 [Framasoft.org] (https://framapad.org/)
 
 
-### listas de correo
+## listas de correo
 
 [Riseup](https://lists.riseup.net): como no, nuestras amigas riseup otra vez
 [Aktivix](http://en.wiki.aktivix.org/Aktivix:EmailAndLists)
 [Autistici] (https://www.autistici.org/services/lists)
 
-### Intercambio ficheros
+## Intercambio ficheros
 
 - [puscii.nl](https://files.puscii.nl/)
 - [riseup share] (https://share.riseup.net)
 - [inmmerda - sólo para usuarios ]ttps://www.immerda.ch/
 
-### Plantilla para hacer turnos
+## Plantilla para hacer turnos
 
 https://schichtplan.immerda.ch/
 
-### Doodle
+## Doodle
 https://dudle.inf.tu-dresden.de/
 https://framadate.org/
 
-## Manuales/Guias
+# Manuales/Guias
 
 Tambien se han creado un monton nuevas los ultimos anyos:
 
@@ -215,7 +155,7 @@ Tambien se han creado un monton nuevas los ultimos anyos:
 - Lista recursos [PRIMS-brek](https://prism-break.org)
 - Lista recursos [privacytools](https://www.privacytools.io/)
 
-## Recursos fisicos
+# Recursos fisicos
 
 Una forma de aprender mas, es visitando tu [cryptoparty](https://cryptoparty.in/berlin) local, en Berlin hay al menos una cada semana, a veces incluso 3 :)
 Para empezar esta muy bien, aunque si tienes necesidades muy especificas/criticas, consulta con alguien especializado/a.
