@@ -147,6 +147,11 @@ https://schichtplan.immerda.ch/
 https://dudle.inf.tu-dresden.de/
 https://framadate.org/
 
+## Hojas de cálculo online
+
+https://ethercalc.org/
+https://framacalc.org/
+
 # Manuales/Guias
 
 Tambien se han creado un monton nuevas los ultimos anyos:
