@@ -107,31 +107,32 @@ Si corres gran riesgo. No uses el movil!
 
 ## servicios de correo
 
-http:s//riseup.net (USA)
-https://autistici.org (ITA)
-[Systemli](https://systemli.org) (GER): se necesita invitacion
-https://www.free.de/ (GER)
-https://so36.net (GER)
-https://www.boum.org/ (FR)
-https://www.immerda.ch/ (CH)
-https://nodo50.org (ESP)
-https://pangea.org/ (ESP)
-[Aktivix](https://http://en.wiki.aktivix.org/Aktivix:EmailAndLists)
-[Posteo](https://posteo.de) (GER): 1eur/mes
+- http:s//riseup.net (USA)
+- https://autistici.org (ITA)
+- [Systemli](https://systemli.org) (GER): se necesita invitacion
+- https://www.free.de/ (GER)
+- https://so36.net (GER)
+- https://www.boum.org/ (FR)
+- https://www.immerda.ch/ (CH)
+- https://nodo50.org (ESP)
+- https://pangea.org/ (ESP)
+- [Aktivix](https://http://en.wiki.aktivix.org/Aktivix:EmailAndLists)
+- [Posteo](https://posteo.de) (GER): 1eur/mes
 
 ## servicios pad
 
-[Riseup](https://pad.riseup.net_
-[La Quadrature du Net](https://pad.lqdn.net)
-[puscii.nl](https://pad.puscii.nl)
-[Framasoft.org] (https://framapad.org/)
+- [Riseup](https://pad.riseup.net_
+- [La Quadrature du Net](https://pad.lqdn.net)
+- [puscii.nl](https://pad.puscii.nl)
+- [Framasoft.org] (https://framapad.org/)
+- https://cryptpad.fr/
 
 
 ## listas de correo
 
-[Riseup](https://lists.riseup.net): como no, nuestras amigas riseup otra vez
-[Aktivix](http://en.wiki.aktivix.org/Aktivix:EmailAndLists)
-[Autistici] (https://www.autistici.org/services/lists)
+- [Riseup](https://lists.riseup.net): como no, nuestras amigas riseup otra vez
+- [Aktivix](http://en.wiki.aktivix.org/Aktivix:EmailAndLists)
+- [Autistici] (https://www.autistici.org/services/lists)
 
 ## Intercambio ficheros
 
@@ -144,13 +145,13 @@ https://pangea.org/ (ESP)
 https://schichtplan.immerda.ch/
 
 ## Doodle
-https://dudle.inf.tu-dresden.de/
-https://framadate.org/
+- https://dudle.inf.tu-dresden.de/
+- https://framadate.org/
 
 ## Hojas de cálculo online
 
-https://ethercalc.org/
-https://framacalc.org/
+- https://ethercalc.org/
+- https://framacalc.org/
 
 # Manuales/Guias
 
