@@ -153,6 +153,10 @@ https://schichtplan.immerda.ch/
 - https://ethercalc.org/
 - https://framacalc.org/
 
+## Calendario online
+
+-  https://framagenda.org/
+
 # Manuales/Guias
 
 Tambien se han creado un monton nuevas los ultimos anyos:
